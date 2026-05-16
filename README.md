@@ -1,4 +1,4 @@
 # gitdemo
 My first git demo
 <br>
-Author - Tanuj Laxmanna
+Author - Tanuj T Laxmanna
